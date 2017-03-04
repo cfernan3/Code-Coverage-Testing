@@ -17,12 +17,12 @@
 ### Output after executing following command for both files(subject.js/mystery.js)
     node_modules/.bin/istanbul cover test.js
 
-![file](https://github.ncsu.edu/sakunker/DevOps_HW2_sakunker/blob/master/ScreenShots/CoverTest.png)
+![file](https://github.com/sohankunkerkar/DevOps_HW2/blob/master/ScreenShots/CoverTest.png)
 
 ### Code Coverage for both Subject.js and Mystery.js
 
-![file](https://github.ncsu.edu/sakunker/DevOps_HW2_sakunker/blob/master/ScreenShots/SubjectCoverage.png)
+![file](https://github.com/sohankunkerkar/DevOps_HW2/blob/master/ScreenShots/SubjectCoverage.png)
 
-![file](https://github.ncsu.edu/sakunker/DevOps_HW2_sakunker/blob/master/ScreenShots/MysteryCoverage.png)
+![file](https://github.com/sohankunkerkar/DevOps_HW2/blob/master/ScreenShots/MysteryCoverage.png)
 
 
